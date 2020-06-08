@@ -1,4 +1,4 @@
-# general recommendations for students and trainees
+# general documentation recommendations for trainees and students
 
 A) Before you create your documentation, you should clarify the following points:
 
