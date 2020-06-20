@@ -27,6 +27,7 @@ B) How to design your documentation:
 15. Pay attention to your spelling and commas. Enable spell checking, if available.
 16. Use illustrations to show facts easily and quickly.
 17. Explain illustrations if you use them.
+18. Read your text out loudly and pay attention to whether you have difficulties reading certain parts of the text. Such parts could also be difficult for the reader or interrupt the flow of reading.
 
 C) Coordinate your documentation with your supervisor before publication.
 
