@@ -27,6 +27,7 @@ B) So gestaltest du deine Dokumentation:
 15. Achte auf deine Rechtschreibung und Kommasetzung. Aktiviere die Rechtschreibprüfung, falls vorhanden.
 16. Verwende Abbildungen, um Sachverhalte einfach und schnell darzustellen.  
 17. Erkläre Abbildungen, wenn du welche verwendest.
+18. Lies dir deinen Text selbst vor und achte darauf, ob du Schwierigkeiten während des Vorlesens an bestimmten Stellen hast. Solche Stellen könnten auch für den Leser schwierig sein oder sie unterbrechen den Lesefluss.
 
 C) Stimme deine Dokumentation mit deiner Betreuerin oder Betreuer vor Veröffentlichung ab.
 
